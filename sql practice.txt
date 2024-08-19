@@ -1,0 +1,26 @@
+sql with mosh data types
+strings
+---------------------------------
+char --- fixed length
+varchar--50 for shrot strings, 255( medium-length strings)
+medium text (16mb)
+longtext(4gb)
+
+tinytext max(255bytes)
+text(64kb)
+-------------------------
+integers 1b
+unsigned tinyint
+---------------------
+rationals
+decimals (9,2) few synonyms dec, numeric and fixed
+--------------------------------
+json types(lightweight format for storing and transferring data
+over the internet)
+
+update products
+set properties
+"weight" :10,
+"manufacturer": "sony"
+
+
